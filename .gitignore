@@ -1,0 +1,10 @@
+# Bazel output directories
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-try_gazelle
+# Bazel symlink directories
+bazel-*
+# Python generation
+__pycache__
+# Execution output directories
